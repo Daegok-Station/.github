@@ -29,5 +29,8 @@
 ---
 
 ## WBS
+<img width="1383" height="725" alt="스크린샷 2025-11-19 150749" src="https://github.com/user-attachments/assets/50934da5-9d37-40d4-b46e-8d0fb41c0e64" />
+<img width="1385" height="521" alt="스크린샷 2025-11-19 150818" src="https://github.com/user-attachments/assets/9b808247-9df4-40e3-9d3f-1a82e5ce32b0" />
+
 
 ---
